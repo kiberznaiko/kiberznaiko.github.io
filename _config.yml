@@ -1,0 +1,8 @@
+title: Кіберзнайко
+lang: uk
+baseurl: ""
+url: ""
+collections:
+  activities:
+    output: true
+    permalink: /activities/:name/
